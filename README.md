@@ -1,1 +1,1 @@
-# cs320-lab2
+# Welcome to cs320-lab2
